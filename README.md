@@ -36,4 +36,4 @@ Sorry for inconveniences.
 ```
 
 ### Link to Country Search App:
-https://github.com/NataD/game_of_life
+http://natlab.pl/CountrySearch/
